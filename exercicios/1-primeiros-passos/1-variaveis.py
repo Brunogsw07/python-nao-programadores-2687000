@@ -9,8 +9,11 @@ seg_nome = 'Guilherme'
 
 # Declare variáveis de cada tipo numérico
 idade = 29
-
-# Declare uma variável do tipo booleano
 altura = 1.89
 
+# Declare uma variável do tipo booleano
+verdadeiro = True
+falso = False
+
 print(nome, seg_nome, idade, altura)
+print(verdadeiro, falso)
